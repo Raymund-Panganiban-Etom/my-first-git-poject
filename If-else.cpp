@@ -14,5 +14,5 @@ if(age>=18){
 }
 system("pause");
 return 0;
-
+// High!!
 }
